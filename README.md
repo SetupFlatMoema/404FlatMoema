@@ -3,7 +3,7 @@
 Landing page do Studio 404 (Mercure São Paulo Moema Times Square), com reserva via Airbnb.
 
 - Página estática: `index.html` + pasta `images/` (sem build, sem dependências).
-- 19 fotos organizadas por ambiente (Sala, Cozinha, Quarto, Banheiro, Prédio), com filtros e visualizador em tela cheia (setas do teclado, deslizar no celular, Esc para fechar).
+- 25 fotos organizadas por ambiente (Sala, Cozinha, Quarto, Banheiro, Prédio, Academia, Lavanderia), com filtros e visualizador em tela cheia (setas do teclado, deslizar no celular, Esc para fechar).
 - Bilíngue PT/EN (botão no topo; detecta o idioma do navegador).
 - Variante para viajante a trabalho: adicione `?v=exec` à URL.
 - Google Analytics `G-QTF5HE0FZC` com os eventos `reservar_airbnb_click` e `galeria_abrir`.
@@ -13,7 +13,7 @@ Landing page do Studio 404 (Mercure São Paulo Moema Times Square), com reserva 
 ```
 index.html
 images/
-  flat-1.avif … flat-20.avif   fotos do studio e do prédio
+  flat-1.avif … flat-26.avif   fotos do studio e do prédio
   og.jpg                       imagem de compartilhamento (WhatsApp, Facebook)
 ```
 
